@@ -25,3 +25,4 @@
 ---
 
 ![](img/title.png)
+<img src="img/title.png" alt="Title Image" style="width:300px; border-radius:10px;" />
